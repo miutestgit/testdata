@@ -1,0 +1,54 @@
+Event Timestamp,CameraID,Duration,Event Type
+44609.35723,HS1,23.65175267,Person without PPE
+44680.6383,HS3,28.42156782,Distance Breach: Moxy/Tipper to Person
+44348.47064,HS4,31.38578598,Distance Breach: Crane to Person
+44543.54045,HS2,7.791995403,Distance Breach: Grab to Person
+44362.54755,HS1,21.75796072,Location Breach: Persons outside designated walkway
+44582.5631,HS3,22.3088334,Distance Breach: Moxy/Tipper to Crane
+44328.4433,HS4,17.96719849,Distance Breach: Moxy/Tipper to Other
+44493.47461,HS2,20.97702854,Person without PPE
+44460.46086,HS1,11.29177574,Location Breach: Moxy/Tipper in restricted area
+44394.34756,HS3,33.09201198,Person without PPE
+44593.38738,HS4,8.322010175,Distance Breach: Crane to Person
+44678.59602,HS2,27.82981093,Distance Breach: Crane to Person
+44676.66613,HS1,18.22920488,Person without PPE
+44452.51188,HS3,27.01915381,Location Breach: Moxy/Tipper in restricted area
+44649.46692,HS4,9.129668436,Person without PPE
+44645.57739,HS2,17.84138075,Distance Breach: Moxy/Tipper to Crane
+44355.4549,HS1,26.08432655,Distance Breach: Grab to Person
+44567.74608,HS3,10.96732111,Person without PPE
+44561.58567,HS4,27.70772084,Location Breach: Moxy/Tipper in restricted area
+44478.48685,HS2,34.25273035,Distance Breach: Crane to Person
+44340.58116,HS1,20.3758064,Distance Breach: Crane to Person
+44559.50229,HS3,33.81546479,Distance Breach: Moxy/Tipper to Crane
+44373.47031,HS4,23.84464697,Distance Breach: Grab to Person
+44523.63049,HS2,26.69243743,Location Breach: Moxy/Tipper in restricted area
+44428.64423,HS1,11.0400925,Distance Breach: Grab to Person
+44536.57242,HS3,5.750177737,Person without PPE
+44451.71816,HS4,22.76405323,Distance Breach: Moxy/Tipper to Crane
+44334.65549,HS2,28.87104786,Person without PPE
+44347.35225,HS1,21.09178956,Distance Breach: Moxy/Tipper to Crane
+44366.45972,HS1,16.27307257,Person without PPE
+44321.58016,HS3,27.90643347,Distance Breach: Moxy/Tipper to Crane
+44585.46983,HS1,10.10388446,Distance Breach: Grab to Person
+44553.69657,HS3,18.02502465,Person without PPE
+44481.59982,HS4,6.981248577,Distance Breach: Moxy/Tipper to Crane
+44637.41643,HS2,34.00183285,Distance Breach: Grab to Person
+44389.64681,HS1,32.08042193,Distance Breach: Grab to Person
+44397.33964,HS3,27.33052195,Distance Breach: Moxy/Tipper to Crane
+44361.70384,HS4,12.68255941,Person without PPE
+44525.64333,HS2,12.38134295,Person without PPE
+44546.50266,HS1,12.13237379,Distance Breach: Moxy/Tipper to Crane
+44427.50941,HS3,5.071422391,Distance Breach: Grab to Person
+44679.57526,HS4,24.08511889,Distance Breach: Moxy/Tipper to Moxy
+44594.74168,HS2,21.63748741,Distance Breach: Moxy/Tipper to Moxy
+44595.45893,HS1,31.27411151,Distance Breach: Moxy/Tipper to Moxy
+44659.59979,HS3,8.716769268,Distance Breach: Moxy/Tipper to Other
+44497.70508,HS4,7.165724655,Distance Breach: Moxy/Tipper to Other
+44415.33625,HS2,27.59313792,Distance Breach: Moxy/Tipper to Person
+44365.43028,HS1,9.498009632,Distance Breach: Moxy/Tipper to Person
+44326.47408,HS3,12.37493617,Distance Breach: Moxy/Tipper to Person
+44457.46919,HS4,8.374601979,Location Breach: Persons outside designated walkway
+44555.71683,HS2,27.07573788,Location Breach: Persons outside designated walkway
+44679.64144,HS1,12.20382451,Location Breach: Persons outside designated walkway
+44642.61409,HS3,14.20012257,Location Breach: Persons outside designated walkway
